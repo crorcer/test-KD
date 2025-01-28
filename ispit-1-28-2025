@@ -1,0 +1,43 @@
+https://github.com/crorcer/test-KD.git
+
+git clone https://github.com/crorcer/test-KD.git
+
+ git push origin main
+
+ npm install express body-parser
+
+ node index.js
+
+ POST
+
+ 200 
+
+ HTTP/1.1
+
+ 600 B
+
+
+POST METODA
+
+POST metoda -> Add crorc3@gmail.com dino
+
+http://localhost:3000/index
+
+Uncaught TypeError: Cannot set properties of null (setting 'innerHTML')
+    at ispis (index:12:47)
+    at HTMLDivElement.onmouseover (index:28:41)
+
+   document.getElementById('doc').innerHTML="Ispis"
+
+   <div onmouseover="ispis()" id="ispis">Test</div> fali znak > iz div
+
+   $ cd test-KD
+   $ git add .
+   git commit -m "Dodane datoteke"
+git push origin main
+
+
+
+
+
+ 
